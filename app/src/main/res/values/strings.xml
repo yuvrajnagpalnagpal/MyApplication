@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="image1">image1</string>
+    <string name="go_all_in">GO ALL IN</string>
+    <string name="on_going_all_out">ON GOING ALL OUT</string>
+    <string name="find_a_team_in_your_city_and_dominate_the_league">find a team in your city and dominate the league</string>
+
+    <string name="todo">TODO</string>
+    <string name="imageview">imageview</string>
+    <string name="desired_league">desired league:</string>
+    <string name="mens">mens</string>
+
+
+    <string name="womens">womens</string>
+
+    <string name="co_ed">co-ed</string>
+    <string name="next">next</string>
+    <string name="i_am_a">i am a:</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="beginer">beginer</string>
+    <string name="baller">baller</string>
+    <string name="beginner">beginner</string>
+    <string name="finish">finish</string>
+    <string name="img">img</string>
+    <string name="imageview4">imageview4</string>
+    <string name="getstarted">getstarted</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="drawerimage">drawerimage</string>
+    <string name="yuvi_nagpal">yuvi nagpal</string>
+    <string name="yuvi_nagpal_gmail_com">yuvi.nagpal@gmail.com</string>
+    <string name="login">login</string>
+    <string name="imgbutton">imgbutton</string>
+    <string name="plz_login_first">plz login first</string>
+    <string name="message">message:</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="do_not_have_account">do not have account?</string>
+    <string name="sign_up">sign up</string>
+
+
+</resources>
